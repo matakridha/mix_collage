@@ -1,0 +1,2 @@
+What does Google’s Style Guide have to say about trailing whitespace? 
+Answer : Don't leave trailing spaces at the end of a line. (Except as needed for Markdown)

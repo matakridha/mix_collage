@@ -1,0 +1,8 @@
+Ada beberapa poin penting mengapa programer harus mengikuti perkembangan Coding Standart
+ 1. Enhance Efficiency
+ 2. Resiko kegagalan project mengecil
+ 3. Minimal Complexity
+ 4. Easy to Maintain
+ 5. Bug Rectification
+ 6. A comprehensive look
+ 7. Cost-Efficient
